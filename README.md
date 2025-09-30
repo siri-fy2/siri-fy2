@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Nagam Sai Srija!
 
-<!--
-**siri-fy2/siri-fy2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 Student passionate about learning and building cool stuff!
+- 💻 Languages: Python, Java, HTML (and always eager to learn more)
+- 🕵️‍♂️ Hobbies: Solving crime mysteries, playing sudoku, and baking
+- 🥐 My next project might be based on baking or a cafe—stay tuned!
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Python:** Scripting, web development, data analysis
+- **Java:** Backend, OOP, desktop applications
+- **HTML/CSS/JS:** Web design and development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🌱 Learning Goals
+- Advanced web frameworks (Django, Spring)
+- UI/UX design for web apps
+- Exploring more about data science and AI
+
+## 📫 How to Reach Me
+- Email: nagamsaisrija04@gmail.com
+- GitHub: github.com/siri-fy2
+
+## 🧩 Fun Facts
+- I love John Grisham's novels.
+- Sudoku is my daily brain workout.
+- Currently binging on F.R.I.E.N.D.S!
+
+
+---
+
+> *“Code, solve, bake, repeat!”*
